@@ -1,0 +1,7 @@
+kata1 = "I"
+kata2 = "Love"
+kata3 = "u"
+
+word = kata1 + " " + kata2 + " " + kata3
+
+print(word)
